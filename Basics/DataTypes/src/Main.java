@@ -7,41 +7,41 @@ public class Main {
         // short    2 byte
         // int      4 byte
         // long     8 byte
-        byte b = 50;
-        short s = 32750;
-        int i = 83500;
-        long l = 959497505 ;
+        byte byteNum = 50;
+        short smallNum = 32750;
+        int num = 83500;
+        long largeNum = 959497505 ;
 
 
         // Floating point number //
         // float    4 bytes: for float use 'f' as suffix as standard
         // double   8 bytes: by default fraction value by default fraction value
-        float f = 4.7333434f;
-        double d = 4.355453532;
+        float floatNum = 4.7333434f;
+        double decNum = 4.355453532;
 
 
         // Creating and initializing custom character
-        char a = 'A';
+        char firstInitial = 'A';
 
 
         // string stores a series of characters
-        String s1 = "Arnab" ;
+        String name = "Arnab" ;
 
 
         // boolean represents only 1 bit of information either as true or false
         boolean TrueOrFalse = true ;
 
 
-        System.out.println("char:   " + a);
-        System.out.println("integer:" + i);
-        System.out.println("byte:   " + b);
-        System.out.println("short:  " + s);
-        System.out.println("long:   " + l);
-        System.out.println("float:  " + f);
-        System.out.println("double: " + d);
-        System.out.println("char:   " + a);
-        System.out.println("stimgs: " + s1);
+        System.out.println("integer:" + num);
+        System.out.println("byte:   " + byteNum);
+        System.out.println("short:  " + smallNum);
+        System.out.println("long:   " + largeNum);
+        System.out.println("float:  " + floatNum);
+        System.out.println("double: " + decNum);
+        System.out.println("char:   " + firstInitial);
+        System.out.println("string: " + name);
         System.out.println(TrueOrFalse);
+
 
     }
 }
