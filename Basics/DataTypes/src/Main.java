@@ -23,12 +23,24 @@ public class Main {
         // Creating and initializing custom character
         char a = 'A';
 
-        System.out.println("char: " + a);
-        System.out.println("integer: " + i);
-        System.out.println("byte: " + b);
-        System.out.println("short: " + s);
-        System.out.println("float: " + f);
+
+        // string stores a series of characters
+        String s1 = "Arnab" ;
+
+
+        // boolean represents only 1 bit of information either as true or false
+        boolean TrueOrFalse = true ;
+
+        System.out.println("char:   " + a);
+        System.out.println("integer:" + i);
+        System.out.println("byte:   " + b);
+        System.out.println("short:  " + s);
+        System.out.println("long:   " + l);
+        System.out.println("float:  " + f);
         System.out.println("double: " + d);
-        System.out.println("long: " + l);
+        System.out.println("char:   " + a);
+        System.out.println("stimgs: " + s1);
+        System.out.println(TrueOrFalse);
+
     }
 }
