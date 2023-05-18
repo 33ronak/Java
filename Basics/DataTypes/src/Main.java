@@ -31,6 +31,7 @@ public class Main {
         // boolean represents only 1 bit of information either as true or false
         boolean TrueOrFalse = true ;
 
+
         System.out.println("char:   " + a);
         System.out.println("integer:" + i);
         System.out.println("byte:   " + b);
