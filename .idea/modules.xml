@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Basics/Basics.iml" filepath="$PROJECT_DIR$/Basics/Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basics/DataType-n-Var/DataType-n-Var.iml" filepath="$PROJECT_DIR$/Basics/DataType-n-Var/DataType-n-Var.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java-Basics.iml" filepath="$PROJECT_DIR$/.idea/Java-Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basics/Operators_n_I-O/Operators_n_I-O.iml" filepath="$PROJECT_DIR$/Basics/Operators_n_I-O/Operators_n_I-O.iml" />
+    </modules>
+  </component>
+</project>
